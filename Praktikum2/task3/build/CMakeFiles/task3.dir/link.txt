@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/task3.dir/inc_two_variables.c.o -o task3 

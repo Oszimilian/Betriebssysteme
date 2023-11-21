@@ -1,0 +1,3 @@
+/home/user/Git/Betriebssysteme/Praktikum2/task3/build/CMakeFiles/task3.dir
+/home/user/Git/Betriebssysteme/Praktikum2/task3/build/CMakeFiles/edit_cache.dir
+/home/user/Git/Betriebssysteme/Praktikum2/task3/build/CMakeFiles/rebuild_cache.dir

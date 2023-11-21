@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/task4.dir/banking.c.o -o task4 
