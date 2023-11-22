@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/task2.dir/inc_threads.c.o -o task2 

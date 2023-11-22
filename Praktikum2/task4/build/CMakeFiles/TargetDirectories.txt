@@ -1,3 +1,0 @@
-/home/user/Git/Betriebssysteme/Praktikum2/task4/build/CMakeFiles/task4.dir
-/home/user/Git/Betriebssysteme/Praktikum2/task4/build/CMakeFiles/edit_cache.dir
-/home/user/Git/Betriebssysteme/Praktikum2/task4/build/CMakeFiles/rebuild_cache.dir
